@@ -1,4 +1,4 @@
-package chirpy
+package main
 
 func main() {
 	server()
